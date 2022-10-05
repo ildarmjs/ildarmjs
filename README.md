@@ -1,4 +1,4 @@
-![Header](https://github.com/ildarmjs/ildarmjs/blob/main/assets/Frame%201.png)
+![Header](https://github.com/ildarmjs/ildarmjs/blob/main/assets/Frame%202.jpg)
 
 ### I am a beginner frontend developer
 
