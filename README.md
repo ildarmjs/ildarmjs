@@ -4,7 +4,7 @@
 
 ### Contact me
 
-<a href="https://t.me/ildar_sw" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536705.png" alt="santdas36" height="40" width="40" /></a>
+
 
 ### Languages and tools
 
