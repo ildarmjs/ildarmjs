@@ -2,9 +2,6 @@
 
 ### I am a beginner frontend developer
 
-### Contact me
-
-
 
 ### Languages and tools
 
