@@ -4,6 +4,16 @@
 
 <h1 align="center">Привет👋 Меня зовут Ильдар!</h1>
 
+###
+
+<div align="left">
+  <a href="https://t.me/ildar_sw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
 <h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
@@ -32,4 +42,11 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ildarmjs)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ildarmjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ildarmjs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
