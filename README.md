@@ -1,19 +1,35 @@
-![Header](https://github.com/ildarmjs/ildarmjs/blob/main/assets/Frame%202.jpg)
+<div align="center">
+  <img height="300" width="600" src="./assets/gifka.gif"  />
+</div>
 
-### I am a beginner frontend developer
+<h1 align="center">Привет👋 Меня зовут Ильдар!</h1>
 
+<h3 align="left">👩‍💻  Обо мне</h3>
 
-### Languages and tools
+###
 
-<p align="left">
-    <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="express" width="40" height="40"/> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="nodejs" width="60" height="40"/>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    <a href="https://lesscss.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" alt="sass" width="60" height="40"/>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    <a href="https://www.adobe.com/ru/products/photoshop.html/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="figma" width="60" height="40"/> 
-</p>
+<p align="left">Я разрабатываю Frontend часть различных продуктов. Отлично справляюсь с созданием проектов с нуля, используя как готовые шаблоны, так и настраивая кастомное окружение. Умею разбирать чужой код и поддерживать существующие проекты, быстро разбираясь в кодовой базе. Умею писать чистый, оптимизированный код. Помимо технических навыков, я также обладаю хорошими коммуникативными навыками и умением работать в команде. Я всегда открыт для обсуждения идей и готов помочь своим коллегам. Ищу позицию frontend-разработчика в динамичной IT-компании с возможностями обучения и карьерного роста. Свяжитесь со мной, и давайте создавать что-то великое вместе!</p>
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ildarmjs)](https://github.com/anuraghazra/github-readme-stats)
